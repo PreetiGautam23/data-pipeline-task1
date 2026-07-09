@@ -1,4 +1,4 @@
-# Data Pipeline Development — CodTech Internship (Task 1)
+# Data Pipeline Development 
 
 ## Overview
 This project implements an automated **ETL (Extract, Transform, Load)** pipeline
