@@ -1,4 +1,4 @@
-# Data Pipeline Development — CodTech Internship (Task 1)
+# Data Pipeline Development 
 
 ## Overview
 This project implements an automated **ETL (Extract, Transform, Load)** pipeline
@@ -65,4 +65,4 @@ A Python script (`etl_pipeline.py`) that automates the full ETL process,
 as required by the CodTech Data Science internship, Task 1.
 
 ---
-*Part of the CodTech IT Solutions Data Science Internship — Task 1: Data Pipeline Development.*
+
