@@ -1,4 +1,4 @@
-# Data Pipeline Development 
+# Customer Data ETL Pipeline
 
 ## Overview
 This project implements an automated **ETL (Extract, Transform, Load)** pipeline
@@ -60,9 +60,14 @@ Output files are written to `output/`.
 - Logging is used throughout so each pipeline run produces a clear audit
   trail of what was cleaned and how many rows/values were affected.
 
-## Deliverable
-A Python script (`etl_pipeline.py`) that automates the full ETL process,
-as required by the CodTech Data Science internship, Task 1.
+## Results
+The pipeline generates:
+
+- Clean customer dataset
+- Machine-learning ready feature matrix
+- Reusable preprocessing pipeline
+
+This project demonstrates a reusable ETL workflow for customer data preprocessing.
 
 ---
 
